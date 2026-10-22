@@ -1,0 +1,98 @@
+{
+ "home@1440": {
+  "page": "/",
+  "width": 1440,
+  "avgDiffPct": 3.4,
+  "segments": [
+   1.7,
+   1.7,
+   2,
+   1.7,
+   7.1,
+   1.8,
+   8.4,
+   8.3,
+   7.4,
+   1.7,
+   4.8,
+   1.7,
+   1.7,
+   1.7,
+   1.7,
+   1.7
+  ],
+  "liveHeight": 14650,
+  "localHeight": 14650,
+  "problems": [
+   "missing 404 /assets/home-v2/outbound-stack/deco.svg?dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-2-campaigns.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-3-channels.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-4-replies.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-5-stack.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-escalation.webp&w=750&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome%2Fnew%2Fava-autonomous-3.webp&w=1920&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome%2Fnew%2Fava-autonomous-4.webp&w=1920&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-owners.webp&w=750&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj"
+  ]
+ },
+ "home@768": {
+  "page": "/",
+  "width": 768,
+  "avgDiffPct": 3.9,
+  "segments": [
+   2.8,
+   2.8,
+   2.8,
+   2.8,
+   7.5,
+   2.8,
+   2.8,
+   3.2,
+   13.7,
+   2.8,
+   2.8,
+   2.8,
+   2.8,
+   2.8
+  ],
+  "liveHeight": 13827,
+  "localHeight": 13827,
+  "problems": [
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-owners.webp&w=828&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome%2Fnew%2Fava-autonomous-3.webp&w=828&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-escalation.webp&w=828&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj"
+  ]
+ },
+ "home@375": {
+  "page": "/",
+  "width": 375,
+  "avgDiffPct": 7,
+  "segments": [
+   7,
+   7,
+   7,
+   7,
+   7,
+   7.2,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7,
+   7
+  ],
+  "liveHeight": 14920,
+  "localHeight": 14920,
+  "problems": [
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-owners.webp&w=384&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-escalation.webp&w=384&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj",
+   "missing 404 /_next/image?url=%2Fassets%2Fhome%2Fnew%2Fava-autonomous-4.webp&w=640&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj"
+  ]
+ }
+}

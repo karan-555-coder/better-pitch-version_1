@@ -1,0 +1,57 @@
+FAIL /  (4 blocked tracker fetches)
+     missing 404 /assets/home-v2/outbound-stack/deco.svg?dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+     missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-2-campaigns.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+     missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-3-channels.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+     missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-4-replies.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+     missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Foutbound-stack%2Foutbound-5-stack.webp&w=1080&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+     missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-owners.webp&w=750&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+     missing 404 /_next/image?url=%2Fassets%2Fhome-v2%2Fguardrails-escalation.webp&w=750&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+OK   /about  (3 blocked tracker fetches)
+FAIL /ai-lead-generation  (3 blocked tracker fetches)
+     missing 404 /_next/image?url=%2Fassets%2Ffind-leads%2F1-Run%20campaigns%20on%20existing%20lead%20lists.webp&w=1920&q=75&dpl=dpl_4wyZ4s7Q3m8sQYFauCJSFFyduPyj
+OK   /ai-outreach  (3 blocked tracker fetches)
+OK   /ai-sales-agent  (4 blocked tracker fetches)
+OK   /artisan-vs-11x  (4 blocked tracker fetches)
+OK   /artisan-vs-aisdr  (4 blocked tracker fetches)
+OK   /authors/adelina-karpenkova  (3 blocked tracker fetches)
+OK   /authors/artisan-team  (3 blocked tracker fetches)
+OK   /authors/dan-mowinski  (3 blocked tracker fetches)
+OK   /authors/irina-maltseva  (3 blocked tracker fetches)
+OK   /authors/jaspar-carmichael-jack  (3 blocked tracker fetches)
+OK   /authors/jenny-romanchuk  (4 blocked tracker fetches)
+OK   /authors/marsha-dunn  (3 blocked tracker fetches)
+OK   /authors/sam-rinko  (3 blocked tracker fetches)
+OK   /b2b-contact-database  (4 blocked tracker fetches)
+OK   /be-lazy  (4 blocked tracker fetches)
+OK   /blog  (4 blocked tracker fetches)
+OK   /careers  (3 blocked tracker fetches)
+OK   /contact-us  (3 blocked tracker fetches)
+OK   /cookie-declaration  (3 blocked tracker fetches)
+OK   /crm-reactivation  (3 blocked tracker fetches)
+OK   /customers  (3 blocked tracker fetches)
+OK   /customers/chainofevents  (3 blocked tracker fetches)
+OK   /customers/cookunity-case-study  (3 blocked tracker fetches)
+OK   /customers/saastr  (4 blocked tracker fetches)
+OK   /customers/sumup-case-study  (4 blocked tracker fetches)
+OK   /customers/zirtual  (3 blocked tracker fetches)
+OK   /dpa  (4 blocked tracker fetches)
+OK   /humans  (4 blocked tracker fetches)
+OK   /intent-data  (3 blocked tracker fetches)
+OK   /local-business-leads  (3 blocked tracker fetches)
+OK   /manifesto  (3 blocked tracker fetches)
+OK   /meeting-scheduling-software  (3 blocked tracker fetches)
+OK   /newsroom  (3 blocked tracker fetches)
+OK   /outbound-sales-automation  (3 blocked tracker fetches)
+FAIL /pricing  (3 blocked tracker fetches)
+     error   Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+OK   /privacy-policy  (4 blocked tracker fetches)
+OK   /request-demo  (3 blocked tracker fetches)
+OK   /sick-leave-uk  (3 blocked tracker fetches)
+OK   /sick-leave-us  (3 blocked tracker fetches)
+OK   /solutions/enterprise  (4 blocked tracker fetches)
+OK   /solutions/smbs  (3 blocked tracker fetches)
+OK   /solutions/startups  (4 blocked tracker fetches)
+OK   /terms-of-use  (4 blocked tracker fetches)
+OK   /upsell-software  (3 blocked tracker fetches)
+
+43/46 pages clean.

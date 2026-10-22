@@ -1,0 +1,2 @@
+# Store every file byte-for-byte: the recorded archive breaks if line endings change.
+* -text
